@@ -22,7 +22,8 @@ Próximo paso: **Desarrollo de Software en el ITLA**.
 |---|---|---|
 | **[Auto Clip](https://github.com/aisak999/auto-clip)** | Crea, programa y publica videos cortos en Facebook e Instagram **sin intervención**: guiones con IA, voz, subtítulos, noticias automáticas y estadísticas que deciden qué producir. | Python · FFmpeg · Selenium · SQLite · IA (Gemini) |
 | **[StockClaro](https://github.com/aisak999/stockclaro-showcase)** | Lee listas de inventario de proveedores en cualquier formato de Excel, las limpia y compara precios. Vendido a distribuidores. | Python · pandas · tkinter |
-| **[AutoRepuestos POS](https://github.com/aisak999/auto-repuesto-la-rubia)** | Punto de venta e inventario para tiendas de repuestos, con facturación fiscal dominicana (NCF / e-CF). | Python · tkinter · SQLite |
+| **[Ruleta de premios](https://github.com/aisak999/ruleta-premios)** 💵 | **Mi primer proyecto pagado.** Ruleta web con enlaces de un solo uso, panel privado y premios decididos en el servidor. Publicada en una VPS con HTTPS. | JavaScript · Node.js · Linux |
+| **[AutoRepuestos POS](https://github.com/aisak999/auto-repuesto-la-rubia)** | Punto de venta e inventario para tiendas de repuestos, con facturación fiscal dominicana (NCF / e-CF). *En desarrollo: datos fiscales del negocio y reportes para la DGII.* | Python · tkinter · SQLite |
 | **[Barbería Citas](https://github.com/aisak999/barberia-citas)** | Web de reservas para barberías con panel para el barbero. | Python · Flask · SQLite |
 | **[Mis Perfumes](https://github.com/aisak999/mis-perfumes)** | Vitrina de perfumes con ventas fiadas, abonos y cobros. | Python · Flask · SQLite |
 
